@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PS4</string>
+    <string name="name_hint">Write name here...</string>
+    <string name="name_label">Name</string>
+    <string name="details_label">Details</string>
+    <string name="keep_it_button">Keep it</string>
+    <string name="done_label">Done</string>
+    <string name="task_add_new">New task</string>
+    <string name="show_subtitle">Show count</string>
+    <string name="hide_subtitle">Hide count</string>
+    <string name="subtitle_format">%1$d tasks undone</string>
+    <string name="task_type_label">Type of a task</string>
+</resources>

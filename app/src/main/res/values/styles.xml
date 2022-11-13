@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="styleForText">
+        <item name="android:textColor">#FB0A02</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:background">#FFFFFF</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:maxLines">1</item>
+    </style>
+    <style name="staticTextStyle">
+        <item name="android:textColor">#8602FB</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+</resources>
