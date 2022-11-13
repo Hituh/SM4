@@ -1,2 +1,2 @@
 # SM4 Jakub Ogar
-![Alt Text](https://github.com/Hituh/SM4/blob/master/untitled.gif =100x250)
+<img src "https://github.com/Hituh/SM4/blob/master/untitled.gif" width="100" />
